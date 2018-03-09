@@ -1,0 +1,10 @@
+{
+	"type":"object",
+	"properties":{
+		"passengerName":{"type":"string"},
+		"flightNo":{"type":"string"},
+		"departureTime":{"type":"string"},
+		"ticketNo":{"type":"string"}
+		},
+	"required":["ticketNo","passengerName"]
+}
