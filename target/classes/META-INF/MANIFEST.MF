@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: first-springboot-project
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: m0k00eu
+Built-By: Siddharth.Sharma
 Implementation-Vendor-Id: com.madhavan.springboot
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_151
 Implementation-URL: http://projects.spring.io/spring-boot/first-spring
  boot-project/
 Created-By: Maven Integration for Eclipse
